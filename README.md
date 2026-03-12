@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-[![LinkedIn](www.linkedin.com/in/karla-gonzalez-iglesias)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://www.linkedin.com/in/karla-gonzalez-iglesias/)](YOUR_LINKEDIN_URL_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL_HERE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
