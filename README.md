@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](www.linkedin.com/in/karla-gonzalez-iglesias)](YOUR_LINKEDIN_URL_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL_HERE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
@@ -10,7 +10,7 @@
 
 > [Insert your personal description here — e.g., "I'm a data-driven professional with a passion for building meaningful solutions at the intersection of business and technology. Currently pursuing a Master's in AI & Business Analytics, with hands-on experience in machine learning, data analysis, and AI tool development."]
 
-- 🎓 Currently studying / working at **[Your University / Company]**
+- 🎓 Currently studying / working at **[ESMT European School of Management and Technology / Axel Springer]**
 - 🌍 Based in **[Your City, Country]**
 - 🔭 Currently working on **[Your Current Project]**
 - 🌱 Currently learning **[Something You're Learning]**
