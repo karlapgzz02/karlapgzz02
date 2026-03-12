@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Karla González] 👋
 
 [![LinkedIn](https://www.linkedin.com/in/karla-gonzalez-iglesias/)](YOUR_LINKEDIN_URL_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL_HERE)
@@ -11,7 +11,7 @@
 > [Insert your personal description here — e.g., "I'm a data-driven professional with a passion for building meaningful solutions at the intersection of business and technology. Currently pursuing a Master's in AI & Business Analytics, with hands-on experience in machine learning, data analysis, and AI tool development."]
 
 - 🎓 Currently studying / working at **[ESMT European School of Management and Technology / Axel Springer]**
-- 🌍 Based in **[Your City, Country]**
+- 🌍 Based in **[Berlin , Germany]**
 - 🔭 Currently working on **[Your Current Project]**
 - 🌱 Currently learning **[Something You're Learning]**
 - 💬 Ask me about **[Topics You're Knowledgeable In]**
